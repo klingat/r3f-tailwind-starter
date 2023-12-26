@@ -3,8 +3,6 @@ import { useFrame } from "@react-three/fiber";
 import { OrbitControls, RoundedBox } from "@react-three/drei";
 import { useRef } from "react";
 
-// function to generate random hex color
-
 const color1 = "mediumpurple";
 const color2 = "green";
 
@@ -29,10 +27,6 @@ export const Cube = () => {
       <directionalLight position={[1, 2, 3]} intensity={4.5} />
       <ambientLight intensity={1.5} />
 
-      {/* <mesh ref={cube} scale={3} onClick={eventHandler}>
-        <boxGeometry />
-        <meshStandardMaterial color={color1} />
-      </mesh> */}
       <RoundedBox
         args={[3, 3, 3]}
         radius={0.5}

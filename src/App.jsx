@@ -14,7 +14,7 @@ function App() {
           <Cube />
         </Canvas>
         <h1>R3F Starter Project</h1>
-        <h2>w/ styled-components and tailwind</h2>
+        <h2>w/ drei, leva, styled-components and tailwind</h2>
       </div>
     </AppWrapper>
   );
