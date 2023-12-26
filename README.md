@@ -1,2 +1,16 @@
-# r3f-tailwind-starter
-A Vite starter project with React Three Fiber, drei, stlyed components and tailwind setup and ready to go. 
+# React Three Fiber Starter Project
+
+## w/ drei, leva (debugging for three), styled-components and tailwind 🌐 🧶 💅 🪁
+
+# 🌐 🧶 💅 🪁
+
+`yarn install`
+
+`yarn run dev`
+
+### Reference Docs
+
+- https://styled-components.com/
+- https://github.com/pmndrs/drei#readme
+- https://github.com/pmndrs/react-three-fiber
+- https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
